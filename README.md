@@ -7,6 +7,10 @@ Our proposed method follows these steps:
 
 Launch the ICIP_submission_notebook.ipynb notebook; all of the instructions are outlined in the notebook step by step.
 
-sample images are located at not_defiltered folder.
+sample images are located at files/not_defiltered folder.
+
+Our solution secured second place on the leaderboard.
+![leader_board_codalab](https://github.com/user-attachments/assets/67178c80-10e2-4819-a143-a953857094f5)
+
 
 Please get in touch with us if you run into any problems.
