@@ -18,4 +18,4 @@ sample images are located at files/not_defiltered folder.
 ![leader_board_codalab](https://github.com/user-attachments/assets/67178c80-10e2-4819-a143-a953857094f5)
 
 
-Please get in touch with us if you run into any problems.
+Please find our ### [Paper] (https://arxiv.org/pdf/2404.08293) attached and feel free to reach out to us if you encounter any issues.
